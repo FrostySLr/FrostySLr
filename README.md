@@ -7,7 +7,7 @@ I'm Adimas a.k.a FrostySLr, a Computer Vision and Microcontroller Enthusiast. I 
 
 
 # 📫 **Reach me!**
-<a href="https://www.linkedin.com/in/adimasirf/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" width="30" height="40" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/adimasirf/" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/linkedin.png" width="30" height="40" alt="linkedin"/></a>
 <!-- linkedin, discord, and email image (with links) -->
 
 # ⚙️ **Language and Tools**
