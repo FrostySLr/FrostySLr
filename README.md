@@ -10,7 +10,7 @@ I'm Adimas a.k.a FrostySLr, a Computer Vision and Microcontroller Enthusiast. I 
 # 📫 **Reach me!**
 <a href="https://www.linkedin.com/in/adimasirf/" target="blank"><img align="center" src="https://img.icons8.com/fluency/96/linkedin.png" width="50" height="70" alt="linkedin"/></a>
 <a href="mailto:airfannanto@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/96/gmail-new.png"  width="50" height="70" alt="gmail-new"/></a>
-<a href="https://x.com/Frostiidims" target="blank"><img align="center" src="https://img.icons8.com/ios/100/twitterx--v1.png"  width="50" height="70" alt="twitterx--v1"/></a>
+<a href="https://x.com/Frostiidims" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" background-color:"white"  width="50" height="70" alt="twitterx--v1"/></a>
 <!-- linkedin, email, and threads image (with links) -->
 
 ## ⚙️ **Language and Tools**
